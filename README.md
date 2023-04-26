@@ -1,7 +1,7 @@
 # Tazama-movies
 ## Description
-I used the movie database API for all of the data and Firebase Authentication to give login functionality.Stored user specific data with a React front-end and a Firebase back-end. I used Firestore which is cloud storage with Firebase to save data. The front-end is styled with Tailwind CSS - an incredible CSS framework to save time styling .
-
+Tazama Movies is a movie website that provides users with access to a vast collection of movies. The website is designed to offer a user-friendly experience, allowing users to search for movies based on different categories. We also offer a feature that allows users to leave comments rating the movies they have watched.
+To create the site, I used the movie database API for all of the data and CSS styling.
 ## Project-Setup-Instructions
 1)Installation of the Visual studio code .
 
@@ -9,10 +9,6 @@ I used the movie database API for all of the data and Firebase Authentication to
 
 ## Technology-Used
 HTML Was used as a primary language for the front-end. CSS styling was used to style the User Interface. JS - JavaScript is used to make the website interactive. vercel was used to host the content.
-
-## Known-Bugs
-The front-end is working properly. Yet to implement the backend.
-
 ## Development
 Want to contribute? Excellent!
 
@@ -26,9 +22,10 @@ Copyright (c) [2023][Njeri Macharia] Permission is hereby granted, free of charg
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+## Live-link
+This is the live-link for my project: https://tazama-movies.vercel.app/
 ## Author
 By Njeri Macharia
 
 Support-And-Contact-Details
-Email address: njerimacharia05@gmail.com Slack:njerimacharia98
+Email address: njerimacharia05@gmail.com Slack:njerimacharia

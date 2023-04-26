@@ -135,3 +135,28 @@ input[type="submit"] {
 input[type="submit"]:hover {
   background-color: #E74C3C;
 }
+
+/* "View Comments" styles */
+.view-comments {
+  margin-top: 50px;
+
+}
+
+.view-comments h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.view-comments .comments-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.view-comments .comments-list li {
+  margin-bottom: 40px;
+}

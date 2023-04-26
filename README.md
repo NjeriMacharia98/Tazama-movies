@@ -1,18 +1,14 @@
 # Tazama-movies
 ## Description
-I used the TMDB API for all of the data and Firebase Authentication to give login functionality.Stored user specific data with a React front-end and a Firebase back-end. I used Firestore which is cloud storage with Firebase to save data. The front-end is styled with Tailwind CSS - an incredible CSS framework to save time styling .
+I used the movie database API for all of the data and Firebase Authentication to give login functionality.Stored user specific data with a React front-end and a Firebase back-end. I used Firestore which is cloud storage with Firebase to save data. The front-end is styled with Tailwind CSS - an incredible CSS framework to save time styling .
 
 ## Project-Setup-Instructions
 1)Installation of the Visual studio code .
 
 2)Git cloning the repository .
 
-3)install the app dependancies by running npm install
-
-4)After the node-modules packages and other dependancies have been installed run npm start or npm run start to run the app/ yarn start
-
 ## Technology-Used
-HTML - Was used as a template to hold the React components of the app via the root div. CSS styling-which was used to style the User Interface. JS - JavaScript is used to make the website interactive. JSX- JavaScript XML allows us to write HTML elements in JavaScript and place them in the DOM .JSX converts HTML tags into react elements. JSON-Was used to create a public API server which was hosted on Heroku. Netlify- Netlify was used to deploy the project's live link. Heroku - Heroku used to create a Json-server API that's hosted online .
+HTML Was used as a primary language for the front-end. CSS styling was used to style the User Interface. JS - JavaScript is used to make the website interactive. vercel was used to host the content.
 
 ## Known-Bugs
 The front-end is working properly. Yet to implement the backend.

@@ -160,3 +160,26 @@ input[type="submit"]:hover {
 .view-comments .comments-list li {
   margin-bottom: 40px;
 }
+
+.view-comments .comments-list .comment-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.view-comments .comments-list .comment-header h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.view-comments .comments-list .comment-header span {
+  font-size: 14px;
+  color: #999;
+}
+
+.view-comments .comments-list .comment-body {
+  font-size: 16px;
+  line-height: 1.5;
+}

@@ -176,10 +176,14 @@ input[type="submit"]:hover {
 
 .view-comments .comments-list .comment-header span {
   font-size: 14px;
-  color: #999;
+  color: #ece3e3;
 }
 
 .view-comments .comments-list .comment-body {
   font-size: 16px;
   line-height: 1.5;
+}
+
+.view-comments {
+    color: beige;
 }

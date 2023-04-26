@@ -14,3 +14,29 @@
   font-weight: bold;
   letter-spacing: 2px;
 }
+
+.list {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.list li {
+  margin-right: 20px;
+}
+
+.list li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  transition: all 0.3s ease-in-out;
+}
+
+.list li a:hover {
+  transform: translateY(-2px);
+  color: #da3a3a;
+}

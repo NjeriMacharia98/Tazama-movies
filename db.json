@@ -1,0 +1,17 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "name": "antman and wasp quantamania",
+        "image": "https://www.google.com/search?sa=X&biw=1299&bih=964&si=AMnBZoEZ8aFftZu792frFYrnK9KQYGXRL3UTeDeHB9-uc0sfFeA-jTnWgm0g6QkhgYaPNk_cNheWzf3QHqx0yh6NFG34ja_a0QSqA-nRg1Q16vD_QUGYTLB66KUfqNQJk-Iab7mXEBMCA7BnpWoYkAnYuPablyctFeUnK1tAS14J0KMiXQp8g_J7bNdCAxuS7oGH5kRUfDxt0ihgRVq23QXUvVc3yHEwVAlxAkU9amREU7JveOSXgmwhi58NqTfJFc3jJ8Q5AfdsqTIFfAnW3x4v95SsaIh8GhVg-WRT90merwuM-3FS7NLZ2-naqyuatALWw9eA0r57YqgtELRW9AUcrDjtiK_F8lfkQiwdlVQSUGbGzKYNS6YsjuKuuwTR9KrUkxC4u1ZX4Gn5RKGA6blvcAju5-mSwfrWdE2WRd4OyPOiQWovfiM%3D&q=ant-man+na+wasp+ant-man+and+the+wasp:+quantumania&ved=2ahUKEwiFnp_rjsr-AhWD2KQKHQqeBvIQ-BZ6BAgREAk#",
+        "likes": 8
+      },
+      {
+        "id": 2,
+        "name": "Avatar",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kenyabuzz.com%2Fmovies%2Fmovie%2Favatar-the-way-of-water%2Fshows&psig=AOvVaw03H4ZIr9LNLRvtBrK0zB1W&ust=1682686874367000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLj2zaSPyv4CFQAAAAAdAAAAABAH",
+        "likes": 14
+      }
+      
+    ]
+  }
